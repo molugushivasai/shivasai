@@ -1,2 +1,6 @@
-# shivasai
-digital fuel guage
+#include<stdio.h>
+{
+int main()
+
+
+
